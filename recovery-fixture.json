@@ -1,0 +1,21 @@
+{
+  "purpose": "Fictional teaching fixture; all keys here are public test data.",
+  "head_order": [
+    "Blackglass",
+    "Underpass",
+    "Lanternboard"
+  ],
+  "tracks_hex": {
+    "Blackglass": "c3839fe98c417df26d75a9f2541c",
+    "Underpass": "e5eb98e61c7f496137505d433d",
+    "Lanternboard": "f4f9e2e65b87a06a6170e56058"
+  },
+  "receipt_sha256_first12": "12D708A3AF54",
+  "incorrect_concatenated_receipt": "E4BE02E20981",
+  "station_wrapping_key_hex": "6d051f532755e8cd95a12e0f46d258e81a30bfa099c71a4819ef7b2037c4d587",
+  "expected_channel_key_hex": "81e39108465762c5cac83199393accbd1c0d46e81631e0715250b2454a1b2aaf",
+  "gcm_nonce_hex": "423754455354303030303031",
+  "gcm_aad_hex": "422d37",
+  "gcm_ciphertext_and_tag_hex": "66e34c6b9445189845b8f7b295fd41c0f27dd61cf06474de15ebd9a9cad4c79d93f581644f99f794",
+  "expected_plaintext": "B-7 / FAMILY / TEST ONLY"
+}
